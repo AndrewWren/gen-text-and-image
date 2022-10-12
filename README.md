@@ -6,7 +6,7 @@
 and to agree to comply with [Cohere](https://cohere.ai) and [Replicate](https://replicate.com/about)'s terms.
 
 
-<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Lake.jpg?raw=true" width="200">
+**A lake**<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Lake.jpg?raw=true" width="200">
 &nbsp;&nbsp;
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="200">
 &nbsp;&nbsp;
