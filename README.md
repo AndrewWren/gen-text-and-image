@@ -16,6 +16,13 @@ quality and fit to the text.  This is, of course, a subjective judgement! See 30
 
 ## How to use
 
+Start by looking at the text-and-image pairs in the 
+`/examples/` directory, which I have divided, subjectively, into `Good` and 
+`Bad` sub-directories.  
+These pairs were generated using `main.py`.
+
+To generate more yourself:
+
 (1) After cloning the repo, create a conda environment by running `conda env 
 create -f environment.yml` in the repo root directory.
 
