@@ -5,6 +5,16 @@
 (c) Andrew Wren 2022. MIT Licence but note that to run you need API keys 
 and to agree to comply with [Cohere](https://cohere.ai) and [Replicate](https://replicate.com/about)'s terms.
 
+
+<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Lake.jpg?raw=true" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Mouse_in_the_snow.jpg?raw=true" width="200">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A lake**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Portrait of the actress Marlene Dietrich**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mouse in the snow**
 ## Description
 
 This project uses a transformer text generator, trained with an appropriate 
@@ -13,6 +23,7 @@ a stable diffusion image generator to generate a corresponding image.  In
 my experience about two-thirds of the images are 'good' in terms of both image 
 quality and fit to the text.  This is, of course, a subjective judgement! See 30 examples in the `\examples` directory, which I have split into 
 `Good` and `Bad` sub-directories.
+
 
 ## How to use
 
