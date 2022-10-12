@@ -48,7 +48,7 @@ improved prompts?
 
 Try also using more `cohere` tools.  I found that training a 
 [classifier](https://docs.cohere.ai/text-classification) 
-on Good and Bad examples, and then using this classification as a filter,  
+on Good and Bad examples, and then using this classification as a filter, 
 helped poor prompts, but getting a good prompt was more effective.  Visualisation of
 [embeddings](https://docs.cohere.ai/embedding-wiki/) 
 associated with the text does not suggest a particularly close relationship
