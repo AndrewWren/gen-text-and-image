@@ -1,9 +1,9 @@
 # gen-text-and-image
 
-## Use the [cohere](https://cohere.ai) text generation API and the [Replicate](https://replicate.com/about) image generation API together to generate text-and-image pairs
+## Use the [Cohere](https://cohere.ai) text generation API and the [Replicate](https://replicate.com/about) image generation API together to generate text-and-image pairs
 
 (c) Andrew Wren 2022. MIT Licence but note that to run you need API keys 
-and to agree to comply with [cohere](https://cohere.ai) and [Replicate](https://replicate.com/about)'s terms.
+and to agree to comply with [Cohere](https://cohere.ai) and [Replicate](https://replicate.com/about)'s terms.
 
 ## Description
 
@@ -26,7 +26,7 @@ To generate more yourself:
 (1) After cloning the repo, create a conda environment by running `conda env 
 create -f environment.yml` in the repo root directory.
 
-(2) Get API keys from [cohere](https://cohere.ai) and [Replicate](https://replicate.com/about). 
+(2) Get API keys from [Cohere](https://cohere.ai) and [Replicate](https://replicate.com/about). 
 Enter them in `/lib/api_key_template.py` as 
 indicated, and then rename it to `/lib/api_key_template.py`.  DO NOT add 
 this file to git or otherwise share it as it now contains your API keys.  
@@ -46,7 +46,7 @@ currently used has a rate of about 1 Bad to every 2 Good.  "Mileage may vary";
 your views on Good and Bad may differ from mine!  Can you find further 
 improved prompts?
 
-Try also using more `cohere` tools.  I found that training a 
+Try also using more Cohere tools.  I found that training a 
 [classifier](https://docs.cohere.ai/text-classification) 
 on Good and Bad examples, and then using this classification as a filter, 
 helped poor prompts, but getting a good prompt was more effective.  Visualisation of
