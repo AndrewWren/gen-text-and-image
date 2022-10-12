@@ -7,9 +7,9 @@ and to agree to comply with [Cohere](https://cohere.ai) and [Replicate](https://
 
 
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Lake.jpg?raw=true" width="200">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="200">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Mouse_in_the_snow.jpg?raw=true" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A lake**
