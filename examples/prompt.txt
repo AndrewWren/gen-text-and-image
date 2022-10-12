@@ -1,0 +1,8 @@
+PROMPT = """This is a list of image captions (no humans or writing):
+
+1. Tiger in the snow
+2. View out of window
+3. Cat in a stetson
+4. Mountainous landscape
+5. Sunset over the ocean
+"""
