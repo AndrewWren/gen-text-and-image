@@ -17,8 +17,13 @@ and to agree to comply with [Cohere](https://cohere.ai) and [Replicate](https://
 
 This project uses a transformer text generator, trained with an appropriate 
 prompt, to generate a very short piece of text.  This text is then used by 
-a stable diffusion image generator to generate a corresponding image.  In 
-my experience about two-thirds of the images are 'good' in terms of both image 
+a stable diffusion image generator to generate a corresponding image.
+
+<table><tr><td valign="center">
+PROMPT <td> -gen-> <td> 'Portrait of the actress Marlene Dietrich' <td> -gen-> <td> 
+<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="60"></tr></table>
+
+In my experience about two-thirds of the images are 'good' in terms of both image 
 quality and fit to the text.  This is, of course, a subjective judgement! See 30 examples in the `\examples` directory, which I have split into 
 `Good` and `Bad` sub-directories.
 
